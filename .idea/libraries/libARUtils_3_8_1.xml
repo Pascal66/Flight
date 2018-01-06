@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libARUtils-3.8.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.parrot/libARUtils/3.8.1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.parrot/libARUtils/3.8.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARUtils/3.8.1/e96660ab853c1d13f82fec10b9e5199987f82138/libARUtils-3.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
